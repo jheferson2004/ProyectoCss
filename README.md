@@ -1,2 +1,1 @@
-# ProyectoCss
-pryecto de css
+# declaracion
